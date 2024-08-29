@@ -813,6 +813,8 @@ footer
 {
     main{padding-top: 0;}
 
+    .heroSection{display: none;}
+
     .projectsSection{border-radius: 0;} 
 }
 
